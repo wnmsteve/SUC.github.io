@@ -1,0 +1,1 @@
+ java -Xmx7G -Xms4G -jar launcher.jar

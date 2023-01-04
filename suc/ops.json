@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "24da030b-58d6-3f90-ba94-363cd3189515",
+    "name": "SUC_steve",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "25a0ca6e-cf02-3a55-bc3c-207a685f2f7c",
+    "name": "suc_steve",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
